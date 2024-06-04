@@ -232,7 +232,7 @@ Must-read papers:
 				Token indexes
 			</td>
 			<td>
-				Slow (w/o sort) or Inefficient (w/ sort)
+				Slow (w/ sort) or Inefficient (w/o sort)
 			</td>
 		</tr>
 		<tr>
